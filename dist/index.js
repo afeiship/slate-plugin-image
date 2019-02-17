@@ -23,7 +23,7 @@ exports.default = {
           _extends({}, attributes, { className: 'slate-plugin-image-node' }),
           React.createElement('img', { src: value, width: '100%' }),
           React.createElement(
-            'figurecaption',
+            'figcaption',
             null,
             children
           )

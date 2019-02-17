@@ -7,7 +7,7 @@ export default {
         return (
           <figure {...attributes} className={'slate-plugin-image-node'}>
             <img src={value} width="100%" />
-            <figurecaption>{children}</figurecaption>
+            <figcaption>{children}</figcaption>
           </figure>
         );
       default:
