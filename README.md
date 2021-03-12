@@ -22,6 +22,9 @@ npm install @jswork/tether-select
     └── select.min.js
 ```
 
+## resources
+- https://github.com/HubSpot/select
+
 ## license
 Code released under [the MIT license](https://github.com/afeiship/tether-select/blob/master/LICENSE.txt).
 
