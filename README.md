@@ -11,6 +11,17 @@
 npm install @jswork/tether-select
 ```
 
+```conf
+.
+├── css
+│   ├── select-theme-chosen.css
+│   ├── select-theme-dark.css
+│   └── select-theme-default.css
+└── js
+    ├── select.js
+    └── select.min.js
+```
+
 ## license
 Code released under [the MIT license](https://github.com/afeiship/tether-select/blob/master/LICENSE.txt).
 
