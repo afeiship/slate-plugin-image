@@ -22,6 +22,17 @@ npm install @jswork/tether-select
     └── select.min.js
 ```
 
+## usage
+```js
+import 'tether';
+import Select from '@jswork/tether-select';
+
+let selectInstance = new Select({
+  el: document.querySelector('select#language_id'),
+  className: 'select-theme-default'
+})
+```
+
 ## resources
 - https://github.com/HubSpot/select
 

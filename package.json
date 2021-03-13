@@ -34,5 +34,8 @@
     "select",
     "jquery",
     "dropdown"
-  ]
+  ],
+  "dependencies": {
+    "tether": "^1.4.7"
+  }
 }
