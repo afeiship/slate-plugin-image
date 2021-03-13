@@ -1,6 +1,6 @@
 {
   "name": "@jswork/tether-select",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Styleable select elements built on Tether.",
   "homepage": "https://github.com/afeiship/tether-select",
   "author": {
@@ -33,7 +33,9 @@
   "keywords": [
     "select",
     "jquery",
-    "dropdown"
+    "dropdown",
+    "list",
+    "option"
   ],
   "dependencies": {
     "tether": "^1.4.7"
